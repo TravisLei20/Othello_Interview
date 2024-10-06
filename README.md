@@ -1,0 +1,1 @@
+I developed this Othello game in under an hour during a job interview, and the code remains unchanged since then. The game was built using Python.
